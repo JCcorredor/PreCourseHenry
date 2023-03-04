@@ -1,2 +1,1 @@
-# PreCourseHenry
-Este es un repositorio de prueba del modulo 2 de henry
+Esta es una prueba de un nuevo repositorio y clonarlo desde mi escritorio local
